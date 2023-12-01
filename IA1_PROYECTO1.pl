@@ -6824,7 +6824,7 @@ irregular_y_experimental() :-
     nl,nl,
     write('!Genial, quieres explorar canciones irregulares y experimentales!'),nl,
     write('Veamos tus opciones: '),nl,
-    write('1. Instrumento flauta'),nl,
+    write('1. Instrumental'),nl,
     write('2. Subversivo y energetico'),nl,
     write('3. Intenso y estridente'),nl,nl,
     read(Genero),
